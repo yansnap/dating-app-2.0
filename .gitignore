@@ -56,3 +56,6 @@ nunit-*.xml
 *.swp
 API/appsettings.json
 API/dating.db*
+.github/instructions/snyk_rules.instructions.md
+client/ssl/localhost-key.pem
+client/ssl/localhost.pem
